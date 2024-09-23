@@ -60,10 +60,11 @@ python main.py listdo
 # Profiles links
 **Linkedin**  www.linkedin.com/in/vasan-s-624b34253
 
-# Project url
-https://roadmap.sh/projects/task-tracker
-
 **Leetcode** @VasanS2004
 
 if you have any queries contact me vasansoundararajan.21@gmail.com
+
+# Project url
+https://roadmap.sh/projects/task-tracker
+
 
